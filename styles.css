@@ -1,3 +1,11 @@
 .announcement {
-	font-color: red;
+	color: red;
+	font-size: 12px;
+	text-align: center;
+}
+
+.nextpage {
+	text-align: center;
+	padding-top: 10px;
+	
 }
